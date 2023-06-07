@@ -1,40 +1,31 @@
-# Marp-Theme-UCAS 国科大Marp 主题
+# BJTUMarp
 
-> 如何使用Markdown做PPT?本仓库是利用Marp实现的国科大markdown Slides
+> 如何使用Markdown做PPT?本仓库是利用Marp实现的北交大markdown Slides
 
-这是为国科大设计的两款 [Marp](https://github.com/marp-team/marp) 主题.
+这是为北交大设计的一款 [Marp](https://github.com/marp-team/marp) 主题.
 
-如果你想要使用这两款主题，强烈建议你先看一下生成的pdf文件。
+如果你想要使用这一款主题，强烈建议你先看一下生成的pdf文件。
 
-更多使用细节，可以点击 [link](https://mdnice.com/writing/9cb2de742bed48d0b131e35d653515f2)
+## VsCode的Marp插件的使用
+首先下载个VSCode, 天然支持 markdown ，然后在左侧的插件栏中搜索并安装 Marp for VS Code 就可以开始了。为了获得更好的 Markdown 编辑体验，大家不妨再安装一个叫做 Markdown All in One 的插件。
 
-如果你想自定义Marp主题，可以看一下这篇教程 [link](https://zhuanlan.zhihu.com/p/449668027)
+## 进阶学习
+如果你希望学习如何使用Marp, 可以阅读[使用markdown制作ppt](https://zhuanlan.zhihu.com/p/149521766)
+如果你希望自定义自己的模版, 可以阅读[自定义Marp模版](https://zhuanlan.zhihu.com/p/449668027)
 
-## File structure
+## 图片展示
 
-```bash
-Marp
-  |__ .vscode
-  |     |__settings.json   //主题配置文件
-  |__ doc
-  |     |__Scenery        //Scenery.md 生成的PPT图片
-  |     |__SimpleBlue     //SimpleBLue.md 生成的PPT图片
-  |     |__Scenery.pdf    //Scenery.md 导出的Pdf
-  |     |__SimpleBlue.pdf //SimpleBlue.md 导出的Pdf
-  |__ images              //文稿和主题所用到的图片文件 可对背景和logo进行替换
-  |__ themes
-  |     |__UCASSce.css    //UCASSce主题文件
-  |     |__UCASSimple.css //UCASSimple主题文件
-  |__Scenery.md           //UCASSce主题对应的md文件
-  |__SimpleBlue.md        //UCASSimple主题对应的md文件
-```
+![img1](doc/SimpleBlue/content.jpg)
 
-## Some Picture
+![img2](doc/Scenery/cover.jpg)
 
-![img1](doc/SimpleBlue/SimpleBlue_1.jpg)
+![img3](doc/Scenery/end.jpg)
 
-![img2](doc/Scenery/Scenery_8.jpg)
+![img4](doc/Scenery/view.jpg)
 
-![img3](doc/Scenery/Scenery_2.jpg)
+## 致谢
 
-![img4](doc/Scenery/Scenery_1.jpg)
+这个项目参考了以下项目, 这个致谢列表没有顺序区别:
+
+* 北京交通大学beamer模版
+* 中国科学院大学Marp模版
