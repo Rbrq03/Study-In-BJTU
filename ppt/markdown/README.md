@@ -15,13 +15,13 @@
 
 ## 图片展示
 
-![img1](doc/SimpleBlue/content.jpg)
+![img1](doc/Scenery/content.png)
 
-![img2](doc/Scenery/cover.jpg)
+![img2](doc/Scenery/cover.png)
 
-![img3](doc/Scenery/end.jpg)
+![img3](doc/Scenery/end.png)
 
-![img4](doc/Scenery/view.jpg)
+![img4](doc/Scenery/view.png)
 
 ## 致谢
 
