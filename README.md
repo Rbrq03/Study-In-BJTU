@@ -15,6 +15,7 @@
 
 1.  word以及latex版本的毕业论文模版
 2.  latex版本的slide(beamer)
+3.  word版本的作业模版
 
 # 联系我们
 
