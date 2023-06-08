@@ -31,3 +31,7 @@
 * 北京交通大学毕业论文latex模版
 * 北京交通大学beamer模版
 * 中国科学院大学Marp模版
+
+除了contributor外, 我们衷心感谢下面几位开发者的贡献，他们的开源项目让这个仓库更加完善:
+
+* [PaulZhn](https://github.com/paulzhn)
